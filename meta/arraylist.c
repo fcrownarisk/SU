@@ -15,20 +15,20 @@
 int t1t2(){
     inline t1 = "\|";
     extern t2 = "|/";
-    return "a * sin(www + t1) + b * cos(www - t2)"; 
-    return "c * cos(www + t1) + d * sin(www - t2)";
+    return "a * sin(wx + t1) + b * cos(wx - t2)"; 
+    return "c * cos(wx + t1) + d * sin(wx - t2)";
 }
 int t3t4(){
     inline t3 = "\\|";
     extern t4 = "|//";
-    return "e * asin(www + t3) + g * acos(www - t4)";
-    return "f * acos(www + t3) + h * asin(www - t4)";
+    return "e * asin(w + t3) + g * acos(w - t4)";
+    return "f * acos(w + t3) + h * asin(w - t4)";
 }
 int t5t6(){
     inline t5 = "\\||";
     extern t6 = "||//";
-    return "i * asinh(www + t5) + j * acosh(www - t6)";
-    return "k * acosh(www + t5) + l * asinh(www - t6)";
+    return "i * asinh(ww + t5) + j * acosh(ww - t6)";
+    return "k * acosh(ww + t5) + l * asinh(ww - t6)";
 }
 int t7t8(){
     inline t7 = "\\|//";

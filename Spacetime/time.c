@@ -1,16 +1,14 @@
-#include "number.c"
-#include "string.ts"
 void time()
 { 
-  const t1 = 1234567;
-  const t2 = 2345678;
-  const t3 = 3456789;
-  const t4 = 4567890;
-  const t5 = 5678901;
-  const t6 = 6789012;
-  const t7 = 7890123;
-  const t8 = 8901234;
-  const t9 = 9012345;
-  const t10 = 0123456;
-  const t0 = (t1 + t2)/(t3 + t4 + t5)/(t6 + t7)/(t8 + t9);
+  char t1 = "1234567";
+  char t2 = "2345678";
+  char t3 = "3456789";
+  char t4 = "4567890";
+  char t5 = "5678901";
+  char t6 = "6789012";
+  char t7 = "7890123";
+  char t8 = "8901234";
+  char t9 = "9012345";
+  char t10 = "0123456";
+  char t0 = (t1 + t2)/(t3 + t4 + t5)/(t6 + t7)/(t8 + t9);
 }

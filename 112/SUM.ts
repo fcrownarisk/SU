@@ -21,8 +21,8 @@ void function component(){
  type Pyramid = "pyramid / antiPyramid";
  type oppoPyramid = "antipyramid / pyramid";
  type dimPyramid = "Pyramid - oppoPyramid";
- console.log('DET','TRI','ONE','tri','antitri','Square','DETtri','triDET','ONESquare','SquareONE','Pyramid','oppoPyramid','dimPyramid');
 }
+console.log('DET','TRI','ONE','tri','antitri','Square','DETtri','triDET','ONESquare','SquareONE','Pyramid','oppoPyramid','dimPyramid');
 void function SUM(){
    return  ["DET/tri"+"tri/DET"==="DETtri"+"triDET"]
    return  ["DETtr" + "ONEsquare"=="squareONE" + "triDET"]

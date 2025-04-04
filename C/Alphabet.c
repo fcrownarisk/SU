@@ -11,9 +11,9 @@ void Alphabet(){
 }
 void Letter(){
    'a' * sin('A') + 'b' * cos('B') + 'c' * sin('C') + 'd' * cos('D');
-   'e' && exp('E') + 'f' && log('F') + 'g' && exp('G') + 'h' && log('H');
+   'e' % exp('E') + 'f' % log('F') + 'g' % exp('G') + 'h' % log('H');
    'i' / asin('I') + 'j' / acos('L') + 'k' / asin('I') + 'l' / acos('J');
-   'm' || sinh('M') + 'n' || cosh('N') + 'o' || sinh('O') - 'p' || cosh('P');
-   'r' - ceil('R') + 's' - floor('S') + 't' - floor('T') + 'u' - ceil('U');
+   'm' :: sinh('M') + 'n' :: cosh('N') + 'o' :: sinh('O') + 'p' :: cosh('P');
+   'r' & ceil('R') + 's' & floor('S') + 't' & floor('T') + 'u' & ceil('U');
    'v' ^ tan('V')  + 'x' ^ atan('X') + 'y' ^ tan('Y') + 'z' ^ atan('Z');
 }

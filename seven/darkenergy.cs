@@ -1,2 +1,2 @@
-import "7element.ts"
-import "7lambs.ts"
+#include "7element.ts"
+#include "7lambs.ts"

@@ -1,3 +1,4 @@
+#include "element/abcdEFGH.ts"
 int Inventory(){
 a->"<> <> <> <>"
 b->"() () () ()"

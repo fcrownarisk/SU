@@ -1,2 +1,2 @@
-import '7element.ts'
-import '7lambs.ts'
+import "7element.ts"
+import "7lambs.ts"

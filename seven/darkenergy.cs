@@ -1,2 +1,2 @@
-#include "7element.ts"
-#include "7lambs.ts"
+using "7element.ts"
+using "7lambs.ts"

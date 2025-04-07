@@ -1,5 +1,5 @@
 #include "unit.c"
-struct gw123456(){
+struct gw(){
 const gw1 = w1 * 'X' ^ 7 + w2 * 'X'^ 3 + w3 * 'X' ^ 2 + 'X';
 const gw2 = w1' * 'X' ^ 7 + w2' * 'X'^ 3 + w3' * 'X' ^ 2 + 'X';
 const gw3 = w1 * 'Y' ^ 7 + w2 * 'Y'^ 3 + w3 * 'Y' ^ 2 + 'X';

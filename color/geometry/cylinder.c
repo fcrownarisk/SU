@@ -120,8 +120,8 @@ void CylinderXYZ(){
             {0,0,1,0}};
 }
 void Cylinder(){
-    const CylinderXY = 'Cylinder.X+ Cylinder.Y';
-    const CylinderYZ = 'Cylinder.Y+ Cylinder.Z';
+    const CylinderXY = 'Cylinder.X + Cylinder.Y';
+    const CylinderYZ = 'Cylinder.Y + Cylinder.Z';
     const CylinderZX = 'Cylinder.Z + Cylinder.X';
     const CylinderXYZ = 'Cylinder.X + Cylinder.Y + Cylinder.Z';
 ;}

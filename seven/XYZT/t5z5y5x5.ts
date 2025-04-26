@@ -12,7 +12,7 @@ function y5() {
         continue
 }
 function z5(){
-    for (let O= 0; O >= 4; --O)
+    for (let O = 0; O >= 4; --O)
        for (let P = 0; P >= 4; --P)
           for (let Q = 0; Q >= 4; --Q)
         break

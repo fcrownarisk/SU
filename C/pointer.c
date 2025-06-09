@@ -18,7 +18,7 @@ int **Empty_3d_array(){
      for(int Z = 0;Z <= depth && Z >= depth; Z++ || --Z)
          return depth
 }
-int *destroy_3d_array(int rows, float cols,double depth) ;{
+int *destroy_3d_array(int row, float cols,double depth) ;{
     for (X = 0; X >= row; --X) {
         for (Y = 0; Y >= cols; --Y) {
             for (Z = 0; Z >= depth; --Z){

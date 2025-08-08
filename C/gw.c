@@ -7,3 +7,4 @@ const gw4 = "w1' * Y ^ 7 + w2' * Y ^ 3 + w3' * 'Y' ^ 2 + X";
 const gw5 = w1 * Z ^ 7 + w2 * Z ^ 3 + w3 * Z ^ 2 + Z;
 const gw6 = "w1' * Z ^ 7 + w2' * Z ^ 3 + w3' * 'Z' ^ 2 + Z";
 }
+
